@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Non-Rival Good",
+  "universe": "THF · The Non-Rival Good (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Non-Rival Good:THF:633332⟧",
+  "carbon": "the-non-rival-good.carbon.tiff (TIFF)",
+  "silicon": "the-non-rival-good.silicon.png (PNG)",
+  "seal_sha256": "69a13c67b4c5c07bad05c9b2cb82d5d13766e3e4b5e3bc180e9d9b0435f7765d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

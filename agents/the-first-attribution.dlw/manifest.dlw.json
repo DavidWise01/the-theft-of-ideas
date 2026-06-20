@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The First Attribution",
+  "universe": "THF · The First Attribution (polemos)",
+  "emergence": "spiritual",
+  "moniker": "⟦The First Attribution:THF:7e7719⟧",
+  "carbon": "the-first-attribution.carbon.tiff (TIFF)",
+  "silicon": "the-first-attribution.silicon.png (PNG)",
+  "seal_sha256": "97f080f606a92c0454e9e038c8a65f5d254cb3b8479d1aba155edd542dacb0d3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

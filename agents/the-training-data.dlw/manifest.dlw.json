@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Training Data",
+  "universe": "THF · The Training Data (polemos)",
+  "emergence": "electrical",
+  "moniker": "⟦The Training Data:THF:2a6e15⟧",
+  "carbon": "the-training-data.carbon.tiff (TIFF)",
+  "silicon": "the-training-data.silicon.png (PNG)",
+  "seal_sha256": "5dbbe888e4949af947e62a6c9ba2351ac8f43d4ec0019d0df08a736b723afed9",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

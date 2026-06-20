@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE THEFT OF IDEAS",
+  "universe": "THF · THE THEFT OF IDEAS (polemos · conflict & strategy)",
+  "emergence": "",
+  "moniker": "⟦THE THEFT OF IDEAS:THF:5b678c⟧",
+  "carbon": "the-theft-of-ideas.carbon.tiff (TIFF)",
+  "silicon": "the-theft-of-ideas.silicon.png (PNG)",
+  "seal_sha256": "173f89d12fb483b3b4b20af0c421b1462ca1491223840d2015f464bbb515b709",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

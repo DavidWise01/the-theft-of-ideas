@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Plagiarism",
+  "universe": "THF · Plagiarism (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦Plagiarism:THF:0f7115⟧",
+  "carbon": "plagiarism.carbon.tiff (TIFF)",
+  "silicon": "plagiarism.silicon.png (PNG)",
+  "seal_sha256": "28c2229abf4aa318aac56203607f76f7827955d9b2c73fee6df1e7267e997d5f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

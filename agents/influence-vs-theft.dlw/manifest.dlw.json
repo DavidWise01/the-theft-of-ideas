@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Influence vs Theft",
+  "universe": "THF · Influence vs Theft (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦Influence vs Theft:THF:3fc802⟧",
+  "carbon": "influence-vs-theft.carbon.tiff (TIFF)",
+  "silicon": "influence-vs-theft.silicon.png (PNG)",
+  "seal_sha256": "598f19f38c7549db87842217fe454886eadbebc2d9bac759e49a64dd852dd294",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

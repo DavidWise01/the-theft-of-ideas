@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Public Domain",
+  "universe": "THF · The Public Domain (polemos)",
+  "emergence": "natural",
+  "moniker": "⟦The Public Domain:THF:cfddf2⟧",
+  "carbon": "the-public-domain.carbon.tiff (TIFF)",
+  "silicon": "the-public-domain.silicon.png (PNG)",
+  "seal_sha256": "32c7913d1bef221a46b88e2b5ccc45c25fbab9cf9e58ddf4160257469c2d6033",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

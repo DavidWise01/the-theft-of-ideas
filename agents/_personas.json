@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "the-non-rival-good",
+    "name": "The Non-Rival Good",
+    "epithet": "take it, and it remains · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Non-Rival Good:THF:633332⟧"
+  },
+  {
+    "slug": "the-first-attribution",
+    "name": "The First Attribution",
+    "epithet": "'I, Enheduanna' · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The First Attribution:THF:7e7719⟧"
+  },
+  {
+    "slug": "attribution",
+    "name": "Attribution",
+    "epithet": "naming the source · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Attribution:THF:6e1420⟧"
+  },
+  {
+    "slug": "the-citation",
+    "name": "The Citation",
+    "epithet": "lineage, made explicit · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Citation:THF:1e68e5⟧"
+  },
+  {
+    "slug": "plagiarism",
+    "name": "Plagiarism",
+    "epithet": "the copy that hides its source · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Plagiarism:THF:0f7115⟧"
+  },
+  {
+    "slug": "influence-vs-theft",
+    "name": "Influence vs Theft",
+    "epithet": "the blurred line · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Influence vs Theft:THF:3fc802⟧"
+  },
+  {
+    "slug": "distillation",
+    "name": "Distillation",
+    "epithet": "building on, with credit · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Distillation:THF:da8d99⟧"
+  },
+  {
+    "slug": "the-public-domain",
+    "name": "The Public Domain",
+    "epithet": "ideas held in common · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Public Domain:THF:cfddf2⟧"
+  },
+  {
+    "slug": "the-training-data",
+    "name": "The Training Data",
+    "epithet": "the newest front · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Training Data:THF:2a6e15⟧"
+  }
+]
