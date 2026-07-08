@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 884
+slug  : the-theft-of-ideas
+seal  : 173f89d12fb483b3b4b20af0c421b1462ca1491223840d2015f464bbb515b709
+prev  : a236cf98c036e5a600a4c31556d42e1d0416cd665811dcec4013ca0a37c8d4ec
+link  : dd2e3cde284eabd49453f8374c4ec361ad708ddfce3cd077722719fe3de927f3
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
